@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jcam2346
-- 👀 I’m interested in basketball, drums, data analytics and R
-- 🌱 I’m currently learning SQL, Python, VBA and Tableau
-- 💞️ I’m looking to collaborate on data analytics problems
+- 👀 I’m interested in basketball, drums and data analytics
+- 🌱 I’m currently learning data structures and algorithms in Python
+- 💞️ I’m keen to collaborate on data analytics problems
 - 📫 How to reach me: via Github 
 
 <!---
